@@ -5,7 +5,12 @@
    
 #### Created by Nou Sophavattey
 
-- Project code:
-- Project demo:
+- Project code: https://github.com/sophavattey/module2-react-employee-dbjson-hm.git
+- Project demo: https://sophavattey.github.io/module2-react-employee-dbjson-hm/
+
+## Screenshots
+
+![alt text](./img/image.png)
+![alt text](./img/image-1.png)
 
 
